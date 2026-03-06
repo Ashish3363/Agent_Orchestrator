@@ -1,4 +1,4 @@
-# Multi-Agent Task Orchestration System
+# Agent_Orchestrator
 
 A lightweight platform where multiple AI agents collaborate to complete a complex task. This project implements a backend orchestration system using FastAPI and a modern frontend using Next.js and Tailwind CSS.
 
