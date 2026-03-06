@@ -69,3 +69,6 @@ The frontend will be running at `http://localhost:3000`.
 2. Enter a complex task query (e.g., "Research the pros and cons of microservices vs. monoliths and produce a summary report.")
 3. Click **Launch**.
 4. Watch the real-time execution! The progress visualizer will show which agent is active, the terminal will print live SSE events, and the system will simulate a revision loop before presenting the Final Output.
+
+
+Demonstration video --> https://drive.google.com/file/d/1xIGShLnCAypnIVv6hpXYJFtTXDvjD7kV/view?usp=sharing
